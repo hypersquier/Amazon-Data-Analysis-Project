@@ -25,9 +25,9 @@ This project provides a deep and comprehensive analysis of Amazon product data, 
 - **Lowest Rating Product:** The name of the product with the lowest rating. Used to flag products requiring immediate review or removal due to poor customer feedback.
 
 ## Usage
-- /data
-
-- Open the main Excel analysis file and follow the steps in each sheet to clean, explore, and visualize the data.
+- raw data : https://github.com/hypersquier/Amazon-Data-Analysis-Project/blob/main/amazon.csv
+- Project link : https://github.com/hypersquier/Amazon-Data-Analysis-Project/blob/main/Amzon%20Dahsboard.xlsx
+Open the main Excel analysis file and follow the steps in each sheet to clean, explore, and visualize the data.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements.
